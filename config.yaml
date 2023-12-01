@@ -3,8 +3,8 @@ description: This AddOn runs through all documents either selected or queried an
 instructions: ''
 type: object
 documents:
-  - query
   - selected
+  - query
 properties: {}
 version: 2
 categories:
